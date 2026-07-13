@@ -1,126 +1,250 @@
-# {PROFILE_HANDLE}
-**Full-stack web developer building modern frontend experiences, scalable backend systems, and AI automation that removes busywork.**
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="Profile banner" />
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Website-{WEBSITE}-0ea5e9?style=flat-square)]({WEBSITE})
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-{LINKEDIN}-0a66c2?style=flat-square)]({LINKEDIN})
-[![Email](https://img.shields.io/badge/Email-{EMAIL}-111827?style=flat-square)](mailto:{EMAIL})
+---
 
-## Quick Overview
+<table width="100%">
+  <tr>
+    <td width="68%" valign="top">
+      <h2>Hello everyone</h2>
+      <h4>Welcome to my profile</h4>
+      <p>
+        Full-stack developer focused on frontend, backend, SOTA stacks, and AI automation.
+        I build products that ship fast, scale cleanly, and remove repetitive work.
+      </p>
+      <p>
+        React / Next.js / TypeScript / Node.js / Python / PostgreSQL / MySQL / Redis / Docker.
+        Product-minded engineer with a bias for practical architecture, performance, and measurable outcomes.
+      </p>
+    </td>
+    <td width="32%" valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=StackAurora&show_icons=true&hide_border=true&count_private=true&title_color=0ea5e9&text_color=111827&icon_color=0ea5e9&bg_color=ffffff"
+        alt="StackAurora GitHub stats"
+      />
+    </td>
+  </tr>
+</table>
 
-- `Role focus:` Frontend, backend, SOTA stacks, AI automation
-- `Experience:` e.g. 5+ years shipping production web apps
-- `Current stack:` React / Next.js / TypeScript / Node.js / Postgres / AI integrations
-- `Working style:` Product-minded, fast iteration, clean architecture, measurable outcomes
-- `Open source:` e.g. building tools, demos, and reusable patterns
+<table width="100%">
+  <tr>
+    <td>
+      <strong>Focus</strong><br />
+      Frontend, full-stack, backend systems, AI automation
+    </td>
+    <td>
+      <strong>Working style</strong><br />
+      Product-minded, iterative, maintainability-first
+    </td>
+    <td>
+      <strong>Priority</strong><br />
+      Outcomes, reliability, performance, clarity
+    </td>
+  </tr>
+</table>
 
-## About
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackAurora&layout=compact&hide_border=true&title_color=0ea5e9&text_color=111827&bg_color=ffffff" alt="Top languages" />
+</p>
 
-I build web products that feel fast, dependable, and deliberately engineered. My work spans modern frontend interfaces, backend APIs, automation systems, and AI-powered workflows designed to improve execution rather than add novelty.
+<table>
+  <tr>
+    <td><strong>Role focus</strong></td>
+    <td>Frontend, full-stack, backend systems, AI automation</td>
+  </tr>
+  <tr>
+    <td><strong>Experience</strong></td>
+    <td>Full-stack portfolio across SaaS, analytics, healthcare, and AI chatbot systems</td>
+  </tr>
+  <tr>
+    <td><strong>Current stack</strong></td>
+    <td>React, Next.js, TypeScript, Node.js, Python, FastAPI, PostgreSQL, MySQL, Redis, Docker</td>
+  </tr>
+  <tr>
+    <td><strong>Working style</strong></td>
+    <td>Product-minded, iterative, maintainability-first, outcome-driven</td>
+  </tr>
+  <tr>
+    <td><strong>Open source</strong></td>
+    <td>AI applications, SaaS platforms, analytics tools, and reusable full-stack patterns</td>
+  </tr>
+</table>
 
-I focus on shipping software that is easy to maintain and easy to trust. That usually means thoughtful system design, strong typing, clear boundaries, and practical quality checks that keep the pace high without making the codebase fragile.
+<div align="center">
+  <p><strong>Building software that is useful in production, not just impressive in a demo.</strong></p>
+</div>
 
-I like working close to product goals: reducing manual work, improving conversion or retention, and turning vague requirements into usable systems. When AI is involved, I aim for grounded implementations such as agent workflows, retrieval-augmented experiences, and automation pipelines with measurable business value.
+## What I do / How I work
+
+I turn product ideas into reliable web systems.
+
+I usually work from the interface down to the infrastructure: define the user flow, map the API contract, shape the data model, then automate the repetitive parts so the team can move faster with less friction.
+
+For AI features, I prefer grounded implementations over demos. That means workflows with guardrails, retrieval when needed, structured outputs, retries, evals, and a clear human-in-the-loop path when the task matters.
+
+## Areas of Expertise
+
+<table>
+  <tr>
+    <td>
+      <strong>Frontend Engineering</strong>
+      <ul>
+        <li>React, Next.js, TypeScript</li>
+        <li>Design systems, component architecture, accessibility</li>
+        <li>Performance optimization and responsive UI</li>
+      </ul>
+    </td>
+    <td>
+      <strong>Backend Systems</strong>
+      <ul>
+        <li>Node.js, Express, NestJS</li>
+        <li>Python, FastAPI, background jobs</li>
+        <li>REST APIs, auth, integrations, service design</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>AI / Automation</strong>
+      <ul>
+        <li>LLM integrations, prompt systems, structured outputs</li>
+        <li>Agents, tool use, workflow orchestration</li>
+        <li>RAG, embeddings, semantic search</li>
+      </ul>
+    </td>
+    <td>
+      <strong>DevOps / Quality</strong>
+      <ul>
+        <li>Docker, CI/CD, environment management</li>
+        <li>Testing with Jest, Vitest, Playwright, Cypress</li>
+        <li>Monitoring, logging, release discipline</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
 ### Frontend
 
 - React, Next.js, TypeScript
-- Tailwind CSS, CSS Modules, styled systems
-- State management, data fetching, component architecture
-- Accessibility, performance optimization, responsive UI
+- Tailwind CSS, modern component systems, design systems
+- State management, data fetching, accessibility
+- Motion, responsiveness, and performance tuning
 
 ### Backend
 
-- Node.js, Express, NestJS, or equivalent service frameworks
-- REST APIs, GraphQL, background jobs, integrations
-- PostgreSQL, MySQL, Redis, MongoDB
-- Auth flows, permissions, observability, and scalable service design
+- Node.js, Express, NestJS
+- Python, FastAPI, background jobs
+- PostgreSQL, Redis, MongoDB
+- REST APIs, auth, integrations, and service design
 
 ### AI / Automation
 
-- LLM integration, tool use, prompt design, structured outputs
-- Agent workflows, orchestration, and multi-step automation
-- RAG pipelines, embeddings, semantic search
-- Workflow automation, internal copilots, and task routing
+- LLM integrations, prompt systems, structured outputs
+- Agents, tool use, workflow orchestration
+- RAG, embeddings, semantic search
+- Internal copilots, task automation, and pipeline design
 
 ### DevOps / Quality
 
-- Git, CI/CD, Docker, environment management
-- Testing with e.g. Jest, Vitest, Playwright, Cypress
-- Monitoring, logging, and release discipline
-- Code review, documentation, and maintainability-first delivery
+- Docker, CI/CD, environment management
+- Jest, Vitest, Playwright, Cypress
+- Logging, monitoring, release discipline
+- Code review, docs, and maintainability-first delivery
+
+## Skills I have
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-111827?style=flat-square" alt="Frontend Skills" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20APIs-111827?style=flat-square" alt="Backend Skills" />
+  <img src="https://img.shields.io/badge/AI-LLMs%20%7C%20RAG%20%7C%20Automation-111827?style=flat-square" alt="AI Skills" />
+  <img src="https://img.shields.io/badge/Quality-Testing%20%7C%20CI%2FCD%20%7C%20Observability-111827?style=flat-square" alt="Quality Skills" />
+</p>
 
 ## Selected Work
 
-1. **[Project 1]**  
-   e.g. A customer-facing web app with a modern frontend, robust API layer, and analytics.  
-   **Outcome:** e.g. improved conversion by 18% and reduced page load time by 40%.
-
-2. **[Project 2]**  
-   e.g. Internal operations dashboard for reporting, approvals, and workflow visibility.  
-   **Outcome:** e.g. cut manual review time from hours to minutes.
-
-3. **[Project 3]**  
-   e.g. AI-assisted support workflow with triage, summarization, and response drafting.  
-   **Outcome:** e.g. increased team throughput while keeping human review in the loop.
-
-4. **[Project 4]**  
-   e.g. SaaS platform with subscription billing, role-based access, and audit trails.  
-   **Outcome:** e.g. enabled faster onboarding and cleaner operational control.
-
-5. **[Project 5]**  
-   e.g. Search and recommendation experience powered by semantic retrieval.  
-   **Outcome:** e.g. improved discovery and reduced drop-off on key journeys.
-
-6. **[Project 6]**  
-   e.g. Automation pipeline for recurring tasks, notifications, and data sync.  
-   **Outcome:** e.g. eliminated repetitive manual steps across the team.
-
-7. **[Project 7]**  
-   e.g. Design system or component library used across multiple product surfaces.  
-   **Outcome:** e.g. accelerated delivery and improved UI consistency.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/StackAurora/Air-Quality-Trend-Analysis">Air Quality Trend Analysis</a></h3>
+      <p>
+        Full-stack air quality analytics platform for PM2.5 and PM10 monitoring, multi-source aggregation,
+        forecasting, natural-language analytics, and professional reporting.
+      </p>
+      <p><strong>Outcome:</strong> Demonstrates end-to-end data ingestion, FastAPI services, React analytics UI, AI forecasting, and LLM planning workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/StackAurora/Resume-Wizard-SaaS">Resume Wizard SaaS</a></h3>
+      <p>
+        AI-powered resume builder with authenticated user flows, resume creation, editing, previewing,
+        download support, and AI-assisted content generation.
+      </p>
+      <p><strong>Outcome:</strong> Shows SaaS product thinking across frontend UX, authentication, CMS-backed data, and generative AI assistance.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/StackAurora/AI-Chatbot-Fullstack">AI Chatbot Fullstack</a></h3>
+      <p>
+        Full-stack chatbot architecture with React, FastAPI, WebSockets, Redis, worker services,
+        and AI model integration for real-time conversational experiences.
+      </p>
+      <p><strong>Outcome:</strong> Highlights real-time backend design, async workflows, API services, and production-style app architecture.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/StackAurora/AI-SaaS-Fullstack-Platform">AI SaaS Fullstack Platform</a></h3>
+      <p>
+        AI SaaS platform built around conversation, code, image, music, and video generation with
+        billing, database modeling, and a polished app interface.
+      </p>
+      <p><strong>Outcome:</strong> Brings together Next.js, AI APIs, Prisma, Stripe, and modern SaaS delivery patterns.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/StackAurora/Multi-Model-AI-Chatbot">Multi-Model AI Chatbot</a></h3>
+      <p>
+        Universal AI chat hub supporting multiple providers such as Gemini, Groq, OpenRouter,
+        Hugging Face, and OpenAI, with chat history and analytics-oriented UI patterns.
+      </p>
+      <p><strong>Outcome:</strong> Shows provider abstraction, fallback-ready AI UX, TypeScript frontend work, and full-stack AI product composition.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/StackAurora/Healthcare-SaaS-Platform">Healthcare SaaS Platform</a></h3>
+      <p>
+        Clinical management SaaS platform covering patient records, doctors, appointments,
+        prescriptions, advanced search, authentication, responsive UI, and multilingual support.
+      </p>
+      <p><strong>Outcome:</strong> Demonstrates domain-heavy product engineering with secure workflows, CRUD systems, and healthcare-grade information design.</p>
+    </td>
+  </tr>
+</table>
 
 ## AI Automation Capabilities
 
-- Build workflows that combine LLMs with business rules, APIs, and human approval steps
-- Design RAG systems for company knowledge, support content, or internal documentation
+- Build workflows that combine LLMs with business logic, APIs, and human review
+- Design RAG systems for docs, support content, and internal knowledge
 - Create agentic flows for research, summarization, classification, and task execution
-- Add structured output schemas, retries, guardrails, and fallbacks for reliability
+- Add structured output schemas, retries, fallbacks, and guardrails
 - Integrate automation with email, CRM, ticketing, docs, and internal tools
-- Measure impact with quality checks, evals, and usage telemetry
-
-## What I Do / How I Work
-
-- Start with the outcome: what should be faster, simpler, or more reliable?
-- Break the problem into frontend, backend, data, and automation layers
-- Choose the smallest stack that can stay stable under real usage
-- Ship in iterations, validate early, and tighten the system with feedback
-- Prefer readable code, explicit contracts, and practical testing over cleverness
-- Treat performance, UX, and maintainability as product features, not afterthoughts
+- Measure quality with evals, telemetry, and feedback loops
 
 ## Currently Learning / Roadmap
 
-- Deeper LLM evals and reliability patterns
-- Advanced orchestration for multi-step AI systems
-- Performance tuning for large-scale frontend applications
-- Better product analytics and experimentation workflows
+- Better LLM evals and reliability patterns
+- Multi-step orchestration for AI systems
+- Frontend performance at scale
+- Product analytics and experimentation
 
 ## Open To
 
 - Full-time or contract roles in frontend, full-stack, or AI automation
 - Collaboration on SaaS products, internal tools, and developer tooling
 - Consulting on system design, automation strategy, and AI feature delivery
-- Open-source contributions with clear technical direction
-
-## Contact / Socials
-
-- Website: [{WEBSITE}]({WEBSITE})
-- LinkedIn: [{LINKEDIN}]({LINKEDIN})
-- Email: [{EMAIL}](mailto:{EMAIL})
-- GitHub: `https://github.com/{PROFILE_HANDLE}`
-- X / Twitter: e.g. `https://x.com/{PROFILE_HANDLE}`
+- Open-source work with clear technical direction
 
 ---
 
-*Last updated: YYYY-MM-DD*
+*Last updated: 2026-07-14*

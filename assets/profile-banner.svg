@@ -1,0 +1,53 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile banner</title>
+  <desc id="desc">A professional banner for a full-stack developer profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#081120" />
+      <stop offset="0.5" stop-color="#0B172A" />
+      <stop offset="1" stop-color="#0F2A3D" />
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="70" x2="1020" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.95" />
+      <stop offset="0.5" stop-color="#60A5FA" stop-opacity="0.82" />
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0.65" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.35" />
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 H 0 V 42" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)" />
+  <rect width="1200" height="360" rx="28" fill="url(#grid)" />
+
+  <circle cx="1060" cy="86" r="120" fill="#38BDF8" fill-opacity="0.14" />
+  <circle cx="1060" cy="86" r="72" fill="#22C55E" fill-opacity="0.12" />
+  <circle cx="140" cy="282" r="116" fill="#60A5FA" fill-opacity="0.14" />
+  <path d="M145 120C290 40 468 34 610 114C742 188 863 208 1038 152" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" opacity="0.8" />
+  <path d="M150 144C292 76 468 72 600 140C726 205 860 225 1014 178" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2" stroke-linecap="round" />
+
+  <g filter="url(#shadow)">
+    <rect x="86" y="76" width="1028" height="208" rx="24" fill="#0B1324" fill-opacity="0.7" stroke="#ffffff" stroke-opacity="0.08" />
+  </g>
+
+  <text x="120" y="126" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">StackAurora</text>
+  <text x="120" y="164" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Top Rated Full-Stack Developer</text>
+  <text x="120" y="208" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Frontend, backend, SOTA stacks, and AI automation</text>
+  <text x="120" y="230" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Product-first engineering for web systems that are fast, reliable, and built to scale.</text>
+
+  <g transform="translate(120 252)">
+    <rect width="186" height="34" rx="17" fill="#0F172A" fill-opacity="0.9" stroke="#38BDF8" stroke-opacity="0.45" />
+    <text x="18" y="22" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">React / Next.js / TS</text>
+  </g>
+  <g transform="translate(318 252)">
+    <rect width="176" height="34" rx="17" fill="#0F172A" fill-opacity="0.9" stroke="#60A5FA" stroke-opacity="0.45" />
+    <text x="18" y="22" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Node.js / Python</text>
+  </g>
+  <g transform="translate(506 252)">
+    <rect width="182" height="34" rx="17" fill="#0F172A" fill-opacity="0.9" stroke="#22C55E" stroke-opacity="0.45" />
+    <text x="18" y="22" fill="#DCFCE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">AI / Automation</text>
+  </g>
+</svg>
