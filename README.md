@@ -19,10 +19,10 @@
       </p>
     </td>
     <td width="32%" valign="top">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=StackAurora&show_icons=true&hide_border=true&count_private=true&title_color=0ea5e9&text_color=111827&icon_color=0ea5e9&bg_color=ffffff"
-        alt="StackAurora GitHub stats"
-      />
+      <h3>Profile Snapshot</h3>
+      <p><strong>6</strong> selected repositories</p>
+      <p><strong>4</strong> product areas: SaaS, AI, analytics, healthcare</p>
+      <p><strong>Full-stack</strong> delivery from UI to API to data layer</p>
     </td>
   </tr>
 </table>
@@ -44,9 +44,19 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackAurora&layout=compact&hide_border=true&title_color=0ea5e9&text_color=111827&bg_color=ffffff" alt="Top languages" />
-</p>
+<div align="center">
+  <h3>Core Languages & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  </p>
+</div>
 
 <table>
   <tr>
